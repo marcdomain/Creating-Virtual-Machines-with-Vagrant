@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/project-api":{"owner":"postgres","group":"vagrant","mount_options":["dmode=775,fmode=664","uid=111","gid=1000"],"guestpath":"/home/vagrant/project-api","hostpath":"/Users/marcuschukwuoma/Documents/VAGRANTFILES/bootcamp-project","disabled":false,"__vagrantfile":true}}}
